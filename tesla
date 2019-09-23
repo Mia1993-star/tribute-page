@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <html lang="en">
+    <link href="https://fonts.googleapis.com/css?family=Hepta+Slab&display=swap" rel="stylesheet" type="text/css">
+    <head>
+        
+  <style> 
+    h1 { 
+      text-style: bold;
+    margine: 16px;
+font-family: 'Hepta Slab', serif;
+    }
+    
+    .header{
+        text-style: bold;
+    margine: 16px;
+font-family: arial;
+    }
+    
+    h3 {
+        text-style: bold;
+    margine: 16px;
+font-family: 'Hepta Slab', serif;
+    }
+    .wiki{
+        text-style: bold;
+    margine: 16px;
+font-family: 'Hepta Slab', serif;
+    }
+    
+    img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100px;
+  height: auto;
+  width: 500px;
+}
+    
+    div.img
+{
+  margin: 0px 20px;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+   width: 100%;
+  height: auto;
+  position: center;
+    background-repeat: no-repeat;
+  background-size: contain;
+}  
+  </style>
+     <body>
+      <div id="main">
+   
+       <h1 id="title"> Nikola Tesla </h1>
+    <h2>One of the biggest inventor of all times</h2>
+        
+       <div id="img-div">
+  <img id="image" src="https://img.photobucket.com/albums/v219/muyfeo/tesla.jpg" class=" img-responsive img-rounded " alt="Nikola Tesla around 1896" />
+  <div id="img-caption"> Nikola Tesla</div>
+</div>
+</div>
+      <div class="text-center"></div>
+      
+
+
+      
+       <h3 id="header">Here is a time line about the life of Nikola Tesla</h3>
+ <div id="tribute-info">
+    <ul>
+    <li>  
+      <bold>1856</bold> Born in Smiljan
+      </li>
+       <li>  
+      <bold>1884</bold> Migrated to the USA and started to work at Edison 
+      </li> 
+        <li>  
+      <bold>1891</bold> Gained an US citizine ship
+      </li> 
+       <li>  
+      <bold>1915</bold> Big company's stopped investing
+      </li> 
+        <li>  
+      <bold>1916</bold> Got the IEEE Edison Medal
+      </li> 
+        <li>  
+      <bold>1943</bold> Dies at the age of 86
+      </li> 
+      </ul>
+  
+      </div>
+    
+    
+      
+  <footer><blockquote cite="https://www.goodreads.com/author/quotes/278.Nikola_Tesla"> “What one man calls God, another calls the laws of physics.” 
+    </blockquote> <cite>Nikola Tesla</cite>
+    
+    <h4> 
+        All the text comes from <a  id="tribute-link" href="https://nl.wikipedia.org/wiki/Nikola_Tesla" target="_blank"> Wikipedia </a> I do not own the right to the text our the images it is only for a self study project. Do give this amazing site a check by clicking it.
+       </h4>
+  </footer>
+    </main>
+  </body> 
+</html>
